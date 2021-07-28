@@ -1,3 +1,3 @@
-# VacationSpots
+# Github Basics
 
 
