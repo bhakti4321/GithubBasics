@@ -1,3 +1,3 @@
 # VacationSpots
 
-Choose your top 3 vacation spots!
+Write about your favorite vacation! 
